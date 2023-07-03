@@ -1,0 +1,16 @@
+{
+  "handle": "hitansor-new",
+  "crew": [
+    "hihen"
+  ],
+  "paymentAddresses": [
+    {
+      "chain": "polygon",
+      "address": "0x4e3EE454457Df7a8b23e496E0316f8604d786A58"
+    },
+    {
+      "chain": "ethereum",
+      "address": "0x4e3EE454457Df7a8b23e496E0316f8604d786A58"
+    }
+  ]
+}
