@@ -1,0 +1,13 @@
+{
+  "handle": "GK_Audits",
+  "members": [
+    "KKat7531",
+    "Stoicov"
+  ],
+  "paymentAddresses": [
+    {
+      "chain": "polygon",
+      "address": "0x9304CC1Ccac588E63Fc02BeC100c08e91E59147f"
+    }
+  ]
+}
