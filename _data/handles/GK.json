@@ -1,0 +1,13 @@
+{
+  "handle": "GK",
+  "members": [
+    "KKat7531",
+    "Stoicov"
+  ],
+  "paymentAddresses": [
+    {
+      "chain": "polygon",
+      "address": "0xcAc1574C184228386Fd6CccF4CE0470136613Ba3"
+    }
+  ]
+}
