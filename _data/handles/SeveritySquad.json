@@ -8,6 +8,11 @@
     {
       "chain": "polygon",
       "address": "0x86b8fb59ea9dab7a7de10b6dc9d8aad93ce24049"
+    },
+    {
+      "chain": "optimism",
+      "address": "0x86b8fb59ea9dab7a7de10b6dc9d8aad93ce24049"
     }
-  ]
+  ],
+  "image": "raFuw4iY3rk"
 }
