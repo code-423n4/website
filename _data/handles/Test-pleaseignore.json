@@ -1,0 +1,13 @@
+{
+  "handle": "Test-pleaseignore",
+  "members": [
+    "cts",
+    "bytes032-c4"
+  ],
+  "paymentAddresses": [
+    {
+      "chain": "polygon",
+      "address": "0x1234123412341234123412341234123412341234"
+    }
+  ]
+}
